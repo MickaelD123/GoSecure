@@ -1,6 +1,6 @@
 # CryptoLink
 Projet Messagerie Chiffrée Sécurisé
-![](Images/Capture-removebg-preview.jpg)
+![](Capture-removebg-preview.jpg)
 # Projet de Messagerie Chiffrée
 
 ## Feuille de Route
