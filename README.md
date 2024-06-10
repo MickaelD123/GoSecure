@@ -2,7 +2,7 @@
 Projet Messagerie Chiffrée Sécurisé
 
 # Projet de Messagerie Chiffrée
-![](Capture-removebg-preview.jpg)
+![](LogoCryptoLink.jpg)
 ## Feuille de Route
 
 ### 1. Recherche et Planification
